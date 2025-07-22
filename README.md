@@ -1,4 +1,4 @@
 # apna-college-demo
-This is a fgithub project
+This is a github project
 <br>
 Author-Shivam Rajput(kanpur)
